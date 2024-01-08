@@ -2,7 +2,7 @@ import streamlit as st
 st.set_page_config(page_title='BTS')
 st.header("BTS:")
 
-col1,col2,col3,col4,col5=st.columns(5)
+col1,col2,col3,col4,col5,col6,col7=st.columns(7)
 with col1:
      st.subheader("V ")
      st.image("./v.jpg",caption="V",width=300,use_column_width=True)
@@ -22,3 +22,10 @@ with col4:
 with col5:
       st.subheader("JIMIN ")
       st.image("./jimin.jpg",caption="JIMIN",width=300,use_column_width=True)
+with col6:
+     st.subheader("JK ")
+     st.image("./jk1.jpg",caption="SUGA",width=300,use_column_width=True)
+
+with col7:
+      st.subheader("JHOPE ")
+      st.image("./jhope1.jpg",caption="JIMIN",width=300,use_column_width=True)
