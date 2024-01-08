@@ -12,7 +12,7 @@ with col2:
 with col3:
      st.subheader("suga")
      st.image("./suga.jpg",caption="suga",width=300,use_column_width=True)
-with col3:
+with col4:
      st.subheader("jhope")
      st.image("./jhope.jpg",caption="jhope",width=300,use_column_width=True)
 
