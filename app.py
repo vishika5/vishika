@@ -14,9 +14,7 @@ with col3:
      st.subheader("RM ")
      st.image("./rm.jpg",caption="RM",width=300,use_column_width=True)
      
-with col4:
-      st.subheader("JK ")
-      st.image("./jk.jpg",caption="JK",width=300,use_column_width=True)
+
 with col5:
      st.subheader("SUGA ")
      st.image("./suga.jpg",caption="SUGA",width=300,use_column_width=True)
