@@ -20,3 +20,9 @@ with col4:
 with col5:
      st.subheader("SUGA ")
      st.image("./suga.jpg",caption="SUGA",width=300,use_column_width=True)
+with col6:
+      st.subheader("JHOPE ")
+      st.image("./jhope.jpg",caption="JHOPE",width=300,use_column_width=True)
+with col7:
+      st.subheader("JIMIN ")
+      st.image("./jimin.jpg",caption="JIMIN",width=300,use_column_width=True)
