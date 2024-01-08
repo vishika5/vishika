@@ -14,7 +14,7 @@ with col3:
      st.image("./suga.jpg",caption="suga",width=300,use_column_width=True)
 with col3:
      st.subheader("jhope")
-     st.image("./jhope.jpg",caption="suga",width=300,use_column_width=True)
+     st.image("./jhope.jpg",caption="jhope",width=300,use_column_width=True)
 
 with col5:
      st.subheader("jimin")
